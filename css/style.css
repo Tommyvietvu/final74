@@ -1,0 +1,69 @@
+body {
+  max width: 1000px;
+  margin: auto;
+  background-image: url("/images/onepiece_manga.png");
+  background-size: 4000px 2800px;
+  background-repeat: no-repeat;
+  background-color: white;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+  font-size: 40px;
+  font-family: 'georgia', sans-serif;
+}
+
+p {
+  color: maroon;
+  font-size: 30px;
+  margin: 50px;
+  font-family: 'georgia', sans-serif;
+}
+
+h3 {
+  color: red;
+  font-size: 36px;
+}
+
+#one {
+  background-color: yellow;
+  margin: 42px;
+}
+
+#two {
+  margin: 42px;
+}
+
+#three {
+  float: right;
+  margin: 300px;
+  top: 100px;
+  position: relative;
+}
+
+#four {
+  float: right;
+  margin: 42px;
+  right: 250px;
+  top: 160px;
+  position: relative;
+}
+
+#five {
+  float: left;
+  margin-left: 200px;
+  top: 325px;
+  position: relative;
+}
+
+#six {
+  background-color: lightblue;
+  margin-top: 2400px;
+  margin-left: -42px;
+}
+
+#seven {
+  margin-left: -42px;
+  margin-top: 150px;
+}
